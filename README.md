@@ -1,1 +1,2 @@
-# flex-google-api
+# Flextination
+Travel and sightseeing Web Program
